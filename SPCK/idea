@@ -1,0 +1,26 @@
+*Web xem phim
+  -web tham khảo :https://www.cgv.vn/en/
+                  https://motphimtw.com/
+  -page cần
+    + log in
+     đăng nhập bằng username/password
+    + sign up
+     đăng ký bằng username/password
+    + home
+        hiển thị danh sách phim hot(slide show)
+
+        hiển thị danh sách phim đề xuất
+
+        hiển thị danh sách phim (sử dụng API)
+
+        thông tin phim khi click vào
+          -hiển thị mục cmt
+          -đánh giá(1,2,3 sao,....)
+          -
+    + web chiếu phim (gắn link phim )
+        hiển thị video phim đã chọn
+
+    + danh sách phim bao gồm các thể loại phim
+        chia ra các thể loại 
+          -> filter ra phim có cùng thể loại
+    
