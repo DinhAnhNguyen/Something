@@ -14,7 +14,7 @@ const handleLogin = () => {
             // Signed in 
             const user = userCredential.user;
             alert('Dang nhap thanh cong')
-            window.location = './index.html'
+            window.location = '../home.html'
         })
         .catch((error) => {
             const errorCode = error.code;

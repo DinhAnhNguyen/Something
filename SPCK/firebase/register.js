@@ -12,6 +12,7 @@ const handleLogin = () => {
   .then((userCredential) => { 
     const user = userCredential.user;
     alert('Dang ky thanh cong')
+    window.location = '../home.html'
   })
   .catch((error) => {
     const errorCode = error.code;
